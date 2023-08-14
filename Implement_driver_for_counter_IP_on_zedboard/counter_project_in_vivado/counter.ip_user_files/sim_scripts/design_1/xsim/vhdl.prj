@@ -1,0 +1,12 @@
+vhdl xil_defaultlib  \
+"../../../bd/design_1/ipshared/441c/src/counter.vhd" \
+"../../../bd/design_1/ipshared/441c/hdl/my_counter_ip_v1_0_S00_AXI.vhd" \
+"../../../bd/design_1/ipshared/441c/hdl/my_counter_ip_v1_0.vhd" \
+"../../../bd/design_1/ip/design_1_my_counter_ip_0_0/sim/design_1_my_counter_ip_0_0.vhd" \
+"../../../bd/design_1/ip/design_1_rst_ps7_0_100M_0/sim/design_1_rst_ps7_0_100M_0.vhd" \
+"../../../bd/design_1/ip/design_1_system_ila_0_0/bd_0/ip/ip_0/sim/bd_f60c_ila_lib_0.vhd" \
+"../../../bd/design_1/ip/design_1_system_ila_0_0/bd_0/sim/bd_f60c.vhd" \
+"../../../bd/design_1/ip/design_1_system_ila_0_0/sim/design_1_system_ila_0_0.vhd" \
+"../../../bd/design_1/sim/design_1.vhd" \
+
+nosort
